@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019-Delete Multiple Job Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3581c07-c0ad-4e9b-8273-462c0492b7e1</testCaseGuid>
+</TestCaseEntity>

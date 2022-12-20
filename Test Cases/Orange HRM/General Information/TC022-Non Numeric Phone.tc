@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC022-Non Numeric Phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80c2b00b-c62e-4e25-8246-f3c1c97b44e5</testCaseGuid>
+</TestCaseEntity>

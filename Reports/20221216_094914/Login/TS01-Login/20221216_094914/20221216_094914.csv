@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01-Login,Chrome 108.0.0.0,,,2022-12-16 09:49:26,2022-12-16 09:49:53,27.415s,PASSED
+,,,,,,,
+Test Cases/Orang HRM/Login/TC001-Login Positive,Chrome 108.0.0.0,,,2022-12-16 09:49:26,2022-12-16 09:49:53,27.149s,PASSED
+"callTestCase(findTestCase(""Orang HRM/Common/Login""), [""username"":""Admin"", ""password"":""admin123""], STOP_ON_FAILURE)",Chrome 108.0.0.0,,,2022-12-16 09:49:27,2022-12-16 09:49:50,23.453s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Orange HRM/Login/Admin Name""), 0)",Chrome 108.0.0.0,,,2022-12-16 09:49:50,2022-12-16 09:49:53,3.305s,PASSED

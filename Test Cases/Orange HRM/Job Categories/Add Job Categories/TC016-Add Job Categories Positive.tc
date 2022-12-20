@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016-Add Job Categories Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9355237b-6390-4e58-99bb-9211c370c6d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3399bacf-f172-4dcc-a2a9-62f02db5a357</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>3399bacf-f172-4dcc-a2a9-62f02db5a357</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

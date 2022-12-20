@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012-Add Employment Status Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0c7c179-b4f8-4415-aba1-9284e23ff20c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95935a81-d695-440b-80cc-c7dc858faa05</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>95935a81-d695-440b-80cc-c7dc858faa05</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+</TestCaseEntity>

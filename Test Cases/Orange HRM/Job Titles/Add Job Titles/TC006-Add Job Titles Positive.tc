@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-Add Job Titles Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bfa8ba7-c206-425b-8253-5f0d1e1b99cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f20b3119-308f-44fb-9928-7b1e12dd9510</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>920957a4-e7c0-4524-a9e6-790a47ce008f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f191a5a-8d08-443d-8548-85395593e1ac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>f20b3119-308f-44fb-9928-7b1e12dd9510</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing'</defaultValue>
+      <description></description>
+      <id>920957a4-e7c0-4524-a9e6-790a47ce008f</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testinggg'</defaultValue>
+      <description></description>
+      <id>3f191a5a-8d08-443d-8548-85395593e1ac</id>
+      <masked>false</masked>
+      <name>Note</name>
+   </variable>
+</TestCaseEntity>

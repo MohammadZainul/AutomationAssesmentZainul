@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_General InformationEditOrganization Nam_4939c0</name>
+   <tag></tag>
+   <elementGuidId>d0b4d453-26fd-40cb-b1db-11b87e6f7633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25031540-6e46-4a93-a472-b7a034c580fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>931abd0f-7ad9-49e5-a3ad-6b3147d5c264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General InformationEditOrganization NameRequiredNumber of Employees53Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountrySaudi ArabiaNotes * Required Save </value>
+      <webElementGuid>60aec2c6-70a0-46f3-993b-2f2a001b65b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>f6cbedc9-13aa-4c13-bc0c-e93ab0d5ae2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>ec88f7d4-d374-4e30-8b7b-d7226a9dad71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[3]</value>
+      <webElementGuid>c42316a7-a025-4f55-a05f-96d40c537b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[3]</value>
+      <webElementGuid>af953820-8ce1-437a-b06a-5a0efb1d2310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>94195578-18ce-4f1f-a7b2-87ce0c9fb9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'General InformationEditOrganization NameRequiredNumber of Employees53Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountrySaudi ArabiaNotes * Required Save ' or . = 'General InformationEditOrganization NameRequiredNumber of Employees53Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountrySaudi ArabiaNotes * Required Save ')]</value>
+      <webElementGuid>43890375-2676-4477-b4f3-6c8f5dd8ebbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017-Existing Job Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63f3a656-fa7e-43f8-8ca4-c13af62872b9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a93b869-f815-4da1-a10b-f8f293571763</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>2a93b869-f815-4da1-a10b-f8f293571763</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

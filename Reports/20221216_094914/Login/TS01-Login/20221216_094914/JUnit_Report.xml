@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS01-Login" time="27.415" tests="1" failures="0" errors="0">
+   <testsuite name="TS01-Login" tests="1" failures="0" errors="0" time="27.415" skipped="0" timestamp="2022-12-16 09:49:26" hostname="moham - DESKTOP-JC2663R" id="Test Suites/Login/TS01-Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\moham\\Katalon Studio\\Orange HRM\\Reports\\20221216_094914\\Login\\TS01-Login\\20221216_094914"/>
+         <property name="logFiles" value="C:\\Users\\moham\\Katalon Studio\\Orange HRM\\Reports\\20221216_094914\\Login\\TS01-Login\\20221216_094914\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="moham - DESKTOP-JC2663R"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 108.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.3"/>
+         <property name="sessionId" value="c280c6356f9ec2febf9f574525f0c52e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Orang HRM/Login/TC001-Login Positive" time="27.149" classname="Test Cases/Orang HRM/Login/TC001-Login Positive" status="PASSED">
+         <system-out><![CDATA[2022-12-16 09:49:26 - [TEST_CASE][PASSED] - Test Cases/Orang HRM/Login/TC001-Login Positive: Test Cases/Orang HRM/Login/TC001-Login Positive
+
+2022-12-16 09:49:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Orang HRM/Common/Login"), ["username":"Admin", "password":"admin123"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Orang HRM/Common/Login' successfully
+
+2022-12-16 09:49:27 - [TEST_CASE][PASSED] - Test Cases/Orang HRM/Common/Login: Test Cases/Orang HRM/Common/Login
+
+2022-12-16 09:49:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-16 09:49:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-16 09:49:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-16 09:49:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-16 09:49:29 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+2022-12-16 09:49:47 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+2022-12-16 09:49:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Orange HRM/Login/input_Username"), username): Text 'Admin' is set on object 'Object Repository/Orange HRM/Login/input_Username'
+
+2022-12-16 09:49:49 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Orange HRM/Login/input_Username'
+
+2022-12-16 09:49:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Orange HRM/Login/input_Password"), password): Text 'admin123' is set on object 'Object Repository/Orange HRM/Login/input_Password'
+
+2022-12-16 09:49:50 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/Orange HRM/Login/input_Password'
+
+2022-12-16 09:49:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Orange HRM/Login/button_Login")): Object: 'Object Repository/Orange HRM/Login/button_Login' is clicked on
+
+2022-12-16 09:49:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Orange HRM/Login/button_Login' is clicked on
+
+2022-12-16 09:49:50 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Orang HRM/Common/Login' successfully
+
+2022-12-16 09:49:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Orange HRM/Login/Admin Name"), 0): Object 'Object Repository/Orange HRM/Login/Admin Name' is present
+
+2022-12-16 09:49:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-12-16 09:49:53 - [MESSAGE][PASSED] - Object 'Object Repository/Orange HRM/Login/Admin Name' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-16 09:49:26 - [TEST_SUITE][PASSED] - TS01-Login: Test Cases/Orang HRM/Login/TC001-Login Positive]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
